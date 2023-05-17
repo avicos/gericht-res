@@ -5,5 +5,5 @@ The design was taken from the Figma file: https://www.figma.com/file/yvClSI9AZBR
 
 ![Screenshot 2023-05-17 at 15-55-35 React App](https://github.com/avicos/gericht-res/assets/67042178/ae1ed9be-8707-445d-9115-3ea5d590b843)
 ![Screenshot 2023-05-17 at 15-56-10 React App](https://github.com/avicos/gericht-res/assets/67042178/e09d4460-431c-4ee6-ac08-292974a7aa9f)
-![Screenshot 2023-05-17 at 15-57-01 React App](https://github.com/avicos/gericht-res/assets/67042178/9db92ef1-0012-4eac-9eff-6c5c0da867e6)
+
 ![Screenshot 2023-05-17 at 15-57-19 React App](https://github.com/avicos/gericht-res/assets/67042178/c0409ea8-9e10-44eb-bf8a-54a69c72e6a6)
